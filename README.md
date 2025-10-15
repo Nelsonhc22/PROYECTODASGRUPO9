@@ -14,7 +14,7 @@ Gestión y documentación del proyecto
 
 - 📋 Enlace de Notion : https://www.notion.so/Proyecto-de-Transporte-y-Log-stica-Grupo-9-28c2e177cfb58045980cd118f64fe6fb?source=copy_link
 
-- 🎨 Enlace a diseño y mockups:
+- 🎨 Enlace a diseño y mockups: https://drive.google.com/file/d/1yyr9Si5pbH52taGL7L_zuMRPuO0l1tcU/view?usp=sharing
 
 - 📄 Documento PDF FASE 1 Subido al aula digital
 
