@@ -7,7 +7,7 @@ Nelson Elías Henríquez Chávez - HC252054
 Diego Carlos Nochez Gallardo - NG182027
 Dilma Esmeralda Ochoa Ayala - OA252494
 
-Sistema web desarrollado en .NET Framework 4.6 o superior C# con base de datos relacional en SQL Server para la gestión de envíos, paquetes y reclamos de una empresa salvadoreña de transporte y logística.  
+Sistema web desarrollado en Visual Studio Community 2022 utilizando ASP.NET Framework 4.6 o superior con una base de datos relacional en SQL Server para la gestión de envíos, paquetes y reclamos de una empresa salvadoreña de transporte y logística.  
 El sistema permitirá registrar paquetes, realizar seguimiento en tiempo real, gestionar reclamos y generar reportes de desempeño operativo.
 
 Gestión y documentación del proyecto
